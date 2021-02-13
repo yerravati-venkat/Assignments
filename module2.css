@@ -1,0 +1,15 @@
+h1{
+  text-align:center;
+  margin-bottom: 50px;
+}
+h3{
+  text-align: right;
+   }
+   .item{
+     background-color: gray;
+     border-style: solid;
+   }
+.border{
+  background-color: red;
+     border:solid;
+   }
