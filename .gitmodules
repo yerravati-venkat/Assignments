@@ -1,9 +1,0 @@
-[submodule "module3-assignment"]
-	path = module3-assignment
-	url = git@github.com:yerravati-venkat/Assignments.git
-[submodule "module4-assignment"]
-	path = module4-assignment
-	url = git@github.com:yerravati-venkat/Assignments.git
-[submodule "module5-assignment"]
-	path = module5-assignment
-	url = git@github.com:yerravati-venkat/Assignments.git
